@@ -40,3 +40,7 @@ gem 'jquery-rails'
 
 # To use debugger
 gem 'haml'
+
+require 'simplecov'
+
+
